@@ -15,4 +15,4 @@ Dynamic Ground Check Script for game objects in Unity.
 10- Set layer of your ground object to that layer.
 11- If you want to do something when object landed like playing audio You can set an event to GroundCheck.OnLanded in inspector.
 
-![alt text](https://github.com/[emircanisanc]/[Unity-GroundCheck]/3DGroundCheck/Assets/ScreenShot/[main]/GroundCheckScreenShot.jpg?raw=true)
+![](3DGroundCheck/Assets/ScreenShot/GroundCheckScreenShot.jpg)
